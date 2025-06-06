@@ -20,19 +20,19 @@ This project aims to determine the **optimal position for a radio antenna** with
   - Robustness to initial guess
   - Computational efficiency
 
-### 📈 Results (Example)
+### Results (Example)
 
 | Method | Min Coordinates      | Cost    | Iterations | Time (s) |
 |--------|----------------------|---------|------------|----------|
 | Newton | (36.06, 31.33)       | ~74.59  | 32         | 0.02     |
 | DFP    | (36.07, 31.31)       | ~74.59  | 41         | 0.05     |
 
-### 📁 Project Files
+### Project Files
 
-- `antenna_optimization.ipynb`: Full explanation, code, visualizations, and comparisons.
+- `Seminar_Notebook.ipynb`: Full explanation, code, visualizations, and comparisons.
 - `README.md`: Project summary.
 
-### 👨‍💻 Authors
+### Authors
 
 Melchior Thierry, Victor Pierron, Oscar Pastural, Richard Goudelin
 
