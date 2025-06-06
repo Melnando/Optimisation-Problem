@@ -1,6 +1,8 @@
 # Optimal Radio Antenna Placement — Unconstrained Optimization
 
 This project aims to determine the **optimal position for a radio antenna** within a 2D city-like environment, maximizing signal efficiency while minimizing interference.
+
+
 <img width="527" alt="building" src="https://github.com/user-attachments/assets/e8920005-87ac-4ca3-9526-b3d78dea157a" />
 
 ### Problem Summary
